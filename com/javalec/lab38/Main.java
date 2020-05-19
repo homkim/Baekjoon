@@ -1,4 +1,4 @@
-package com.javalec.lab32;
+package com.javalec.lab38;
 
 /**
  * 더하기 
@@ -17,7 +17,7 @@ public class Main {
 			int i = sc.nextInt();
 			int j = sc.nextInt();
 
-			System.out.println(i + j);
+			System.out.printf("Case #%d: %d + %d = %d\n",(test_case+1), i, j, (i + j));
 		}
 	}
 }
