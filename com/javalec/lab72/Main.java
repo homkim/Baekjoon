@@ -2,12 +2,15 @@
 package com.javalec.lab72;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
 	public static ArrayList<Integer> al;
 	
 	public static void main(String[] args) {
 
+		List<String> list = new ArrayList<>(); // 선언방법 참조
+		
 		fillAl();
 		for (int i = 1; i <= 10000; i++) {
 			if( !al.contains(i) )
