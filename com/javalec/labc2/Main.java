@@ -1,3 +1,6 @@
+/**
+ * self number 찾기
+ */
 package com.javalec.labc2;
 
 import java.util.Scanner;
@@ -6,38 +9,24 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
-		int len = String.valueOf(n).length();
-
-		if (len == 1) {
-			System.out.println(n);
-			return;
-		}
-
-		int a = n - len * 9;
-		if (a < 1)
-			a = 1;
-		int b = a;   //시작값
-		int div = 1; // 나눔
-		int temp = 0;
-		int n2 = n;
-		for (int i = a; i <= n; i++) {
-			if (div == 1) {
-				n2 = n % 10;
-				b += n % 10;
-			} else {
-				temp = (b / div);
-				temp = temp % 10;
-				b += temp;
+		
+		for (int i = 1; i <= n; i++) {
+			if (getSelfNum(i) == n) {
+				System.out.println(i);
+				return;
 			}
-
-			if (b == n)
-				break;
-
-			div *= 10;
 		}
-		if (b == n)
-			System.out.println(a);
-		else
-			System.out.println(0);
+		System.out.println(0);
+	}
+
+	private static int getSelfNum(int n) {
+		
+		String str = String.valueOf(n);
+		int sum = 0;
+		for (int i = 0; i < str.length(); i++) {
+			sum += Integer.parseInt(str.substring(i, i+1));
+		}
+		
+		return n + sum;
 	}
 }
