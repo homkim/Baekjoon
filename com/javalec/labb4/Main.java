@@ -1,3 +1,6 @@
+/**
+ * 하노이 #1 
+ */
 package com.javalec.labb4;
 
 import java.io.BufferedWriter;
