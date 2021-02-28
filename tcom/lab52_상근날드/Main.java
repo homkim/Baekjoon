@@ -1,7 +1,7 @@
 /**
  * 상근날드
  */
-package tcom.lab52;
+package tcom.lab52_상근날드;
 
 import java.util.Scanner;
 

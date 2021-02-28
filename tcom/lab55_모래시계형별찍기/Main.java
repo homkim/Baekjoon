@@ -1,7 +1,7 @@
 /**
  * 모래시계형 별 찍기
  */
-package tcom.lab55;
+package tcom.lab55_모래시계형별찍기;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 /**
  * 지그재그 별 찍기
  */
-package tcom.lab56;
+package tcom.lab56_지그재그형별찍기;
 
 import java.util.Scanner;
 

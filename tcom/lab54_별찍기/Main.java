@@ -1,7 +1,7 @@
 /**
  * 별찍기
  */
-package tcom.lab54;
+package tcom.lab54_별찍기;
 
 import java.util.Scanner;
 

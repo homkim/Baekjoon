@@ -1,7 +1,7 @@
 /**
  * 정렬 후 중간 수
  */
-package tcom.lab53;
+package tcom.lab53_정렬후중간수;
 
 import java.util.Arrays;
 import java.util.Scanner;
