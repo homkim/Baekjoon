@@ -1,4 +1,4 @@
-package c12_정렬.p06_좌표정렬;
+package c12_정렬.p07_좌표정렬2;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -16,13 +16,10 @@ public class Main {
 		}
 		
 		Arrays.sort(arr, (o1, o2) ->{
-			if(o1[0] == o2[0]) return Integer.compare(o1[1], o2[1]);
-			else return Integer.compare(o1[0], o2[0]);
+			if(o1[1] == o2[1]) return Integer.compare(o1[0], o2[0]);
+			else return Integer.compare(o1[1], o2[1]);
 		});
 		
-//		for(int i = 0; i < N; i++) {
-//			System.out.printf("%d %d\n",arr[i][0], arr[i][1]);
-//		}
 		StringBuilder sb = new StringBuilder();
 		for(int i = 0; i < N; i++) {
 			sb.append(arr[i][0] + " " + arr[i][1]).append("\n");
