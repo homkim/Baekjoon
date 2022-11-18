@@ -1,10 +1,10 @@
-package c01_입출력.p04_dog;
+package c01_입출력;
 /**
  * 개
  * @author mynote
  *
  */
-public class Main {
+public class P04_dog {
 
     public static void main(String[] args) {
 

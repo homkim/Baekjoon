@@ -1,10 +1,10 @@
-package c01_입출력.p03_cat;
+package c01_입출력;
 /**
  * 고양이
  * @author mynote
  *
  */
-public class Main {
+public class P03_cat {
 
     public static void main(String[] args) {
 
