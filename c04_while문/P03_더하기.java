@@ -2,11 +2,11 @@
 /**
  * 빠른 더하기
  */
-package c04_while문.p03_더하기;
+package c04_while문;
 
 import java.util.Scanner;
 
-public class Main {
+public class P03_더하기 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

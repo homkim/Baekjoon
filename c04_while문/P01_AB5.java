@@ -1,11 +1,11 @@
-package c04_while문.p01_ab5;
+package c04_while문;
 
 /**
  * n까지의 합 
  */
 import java.util.Scanner;
 
-public class Main {
+public class P01_AB5 {
 
 	public static void main(String[] args) {
 
