@@ -1,11 +1,11 @@
-package c03_for문.p01_구구단;
+package c03_for문;
 
 /**
  * 구구단 
  */
 import java.util.Scanner;
 
-public class Main {
+public class P01_구구단 {
 
 	public static void main(String[] args) {
 

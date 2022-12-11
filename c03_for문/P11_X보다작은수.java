@@ -1,11 +1,11 @@
-package c03_for문.p11_x보다작은수;
+package c03_for문;
 
 /**
  * n까지의 합 
  */
 import java.util.Scanner;
 
-public class Main {
+public class P11_X보다작은수 {
 
 	public static void main(String[] args) {
 

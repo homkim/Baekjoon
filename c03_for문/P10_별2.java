@@ -1,11 +1,11 @@
-package c03_for문.p10_별2;
+package c03_for문;
 
 /**
  * n까지의 합 
  */
 import java.util.Scanner;
 
-public class Main {
+public class P10_별2 {
 
 	public static void main(String[] args) {
 

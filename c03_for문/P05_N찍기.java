@@ -1,11 +1,11 @@
-package c03_for문.p05_N찍기;
+package c03_for문;
 
 /**
  * n까지의 합 
  */
 import java.util.Scanner;
 
-public class Main {
+public class P05_N찍기 {
 
 	public static void main(String[] args) {
 

@@ -1,11 +1,11 @@
-package c03_for문.p08_AB8;
+package c03_for문;
 
 /**
  * 더하기 
  */
 import java.util.Scanner;
 
-public class Main {
+public class P07_AB7 {
 	static int T = 0;
 
 	public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class Main {
 			int i = sc.nextInt();
 			int j = sc.nextInt();
 
-			System.out.printf("Case #%d: %d + %d = %d\n",(test_case+1), i, j, (i + j));
+			System.out.println("Case #" + (test_case+1) + ": " + (i + j));
 		}
 	}
 }
