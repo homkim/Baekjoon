@@ -3,11 +3,11 @@
  * 교차점의 갯수를 계산한다. 완전히 일치하면 -1
  */
 
-package c09_기본수학2.p11_터렛;
+package c09_기본수학2;
 
 import java.util.Scanner;
 
-public class Main {
+public class P11_터렛 {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);

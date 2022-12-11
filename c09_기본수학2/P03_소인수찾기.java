@@ -1,8 +1,8 @@
-package c09_기본수학2.p03_소인수분해;
+package c09_기본수학2;
 
 import java.util.Scanner;
 
-public class Main {
+public class P03_소인수찾기 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -3,11 +3,11 @@
  * 오른쪽 위 꼭짓점은 (w, h)에 있다. 직사각형의 경계선까지 가는 거리의 최솟값을 
  * 구하는 프로그램을 작성하시오.
  */
-package c09_기본수학2.p07_직사각형에서탈출;
+package c09_기본수학2;
 
 import java.util.Scanner;
 
-public class Main {
+public class P07_직사각형에서탈출 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

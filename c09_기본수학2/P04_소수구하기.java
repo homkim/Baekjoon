@@ -1,4 +1,4 @@
-package c09_기본수학2.p04_소수구하기;
+package c09_기본수학2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class Main {
+public class P04_소수구하기 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

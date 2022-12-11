@@ -1,10 +1,10 @@
 // 소수구하기
 // 소수란 1과 자신 말고 나누어지지 않는 숫자
-package c09_기본수학2.p01_소수찾기;
+package c09_기본수학2;
 
 import java.util.Scanner;
 
-public class Main {
+public class P01_소수찾기 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

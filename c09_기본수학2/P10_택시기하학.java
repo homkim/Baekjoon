@@ -1,8 +1,8 @@
-package c09_기본수학2.p10_택시기하학;
+package c09_기본수학2;
 
 import java.util.Scanner;
 
-public class Main {
+public class P10_택시기하학 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int r = sc.nextInt();

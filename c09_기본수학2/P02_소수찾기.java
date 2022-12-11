@@ -1,8 +1,8 @@
-package c09_기본수학2.p02_소수;
+package c09_기본수학2;
 
 import java.util.Scanner;
 
-public class Main {
+public class P02_소수찾기 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
