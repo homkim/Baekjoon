@@ -1,12 +1,12 @@
 /* 함수구현 */
-package c06_함수.p01_정수N개의합;
+package c06_함수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class P01_정수N개의합 {
 	public static void main(String[] args) throws IOException {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

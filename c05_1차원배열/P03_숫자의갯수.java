@@ -1,9 +1,9 @@
 /* 배열에서 나온 숫자의 갯수 */
-package c05_1차원배열.p03_숫자의갯수;
+package c05_1차원배열;
 
 import java.util.Scanner;
 
-public class Main {
+public class P03_숫자의갯수 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

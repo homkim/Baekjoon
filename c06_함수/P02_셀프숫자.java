@@ -1,10 +1,10 @@
 /* 셀프숫자 */
-package c06_함수.p02_셀프숫자;
+package c06_함수;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class P02_셀프숫자 {
 	public static ArrayList<Integer> al;
 	
 	public static void main(String[] args) {

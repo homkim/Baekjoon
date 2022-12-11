@@ -1,9 +1,9 @@
 /* 입력한 정수의 자릿수가 등차수열을 이루는 경우의 수(한수)  */
-package c06_함수.p03_한수;
+package c06_함수;
 
 import java.util.Scanner;
 
-public class Main {
+public class P03_한수 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

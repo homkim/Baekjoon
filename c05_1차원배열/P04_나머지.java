@@ -1,11 +1,11 @@
 /* 나머지 */
-package c05_1차원배열.p04_나머지;
+package c05_1차원배열;
 
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Main {
+public class P04_나머지 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

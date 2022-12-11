@@ -1,9 +1,9 @@
 /* 배열의 최대값 및 인덱스 번호 */
-package c05_1차원배열.p02_최대값;
+package c05_1차원배열;
 
 import java.util.Scanner;
 
-public class Main {
+public class P02_최대값 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

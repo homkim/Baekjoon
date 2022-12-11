@@ -1,10 +1,10 @@
 /* 배열의 최대, 최소값 */
-package c05_1차원배열.p01_최소최대;
+package c05_1차원배열;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class P01_최대최소 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
