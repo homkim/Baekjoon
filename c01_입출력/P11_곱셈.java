@@ -1,4 +1,4 @@
-package c01_입출력.p11_곱셈;
+package c01_입출력;
 /**
  * 곱셈
  * @author mynote
@@ -6,7 +6,7 @@ package c01_입출력.p11_곱셈;
  */
 import java.util.Scanner;
 
-public class Main {
+public class P11_곱셈 {
 
     public static void main(String[] args) {
         

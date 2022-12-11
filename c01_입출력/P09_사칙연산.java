@@ -1,4 +1,4 @@
-package c01_입출력.p09_사칙연산;
+package c01_입출력;
 /**
  * 사칙연산
  * @author mynote
@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 import java.util.Scanner;
 
-public class Main {
+public class P09_사칙연산 {
 
     public static void main(String[] args) {
         

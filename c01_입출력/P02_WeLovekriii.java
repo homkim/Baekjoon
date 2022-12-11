@@ -1,6 +1,6 @@
-package c01_입출력.p02_WeLovekriii;
+package c01_입출력;
 
-public class Main{
+public class P02_WeLovekriii{
     public static void main(String[] args){
         System.out.println("강한친구 대한육군");
         System.out.println("강한친구 대한육군");

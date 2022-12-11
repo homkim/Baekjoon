@@ -1,4 +1,4 @@
-package c01_입출력.p10_나머지;
+package c01_입출력;
 /**
  * 나머지
  * @author mynote
@@ -6,7 +6,7 @@ package c01_입출력.p10_나머지;
  */
 import java.util.Scanner;
 
-public class Main {
+public class P10_나머지 {
 
     public static void main(String[] args) {
         
