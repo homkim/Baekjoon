@@ -1,11 +1,11 @@
 /* 손인분기점  */
 // a + b*x <= c*x 인 최소값 x를 구한다
 // x >= a / (c-b)를 만족하는 최소 자연수
-package c08_기본수학1.p01_손익분기점;
+package c08_기본수학1;
 
 import java.util.Scanner;
 
-public class Main {
+public class P01_손익분기점 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();

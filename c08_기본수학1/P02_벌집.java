@@ -3,11 +3,11 @@
 //    6, 12, 18  24
 //  1 + 6*x = n -> x =  ceil( (n-1)/6 ) + 1 로 계산하면 됨
 //  첫째 줄에 N(1 ≤ N ≤ 1,000,000,000)이 주어진다.
-package c08_기본수학1.p02_벌집;
+package c08_기본수학1;
 
 import java.util.Scanner;
 
-public class Main {
+public class P02_벌집 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

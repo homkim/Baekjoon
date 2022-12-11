@@ -1,9 +1,9 @@
-package c08_기본수학1.p08_ab더하기;
+package c08_기본수학1;
 
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class Main {
+public class P08_AB더하기 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

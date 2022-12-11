@@ -1,9 +1,9 @@
 /* 시간여행 */
-package c08_기본수학1.p09_시간여행;
+package c08_기본수학1;
 
 import java.util.Scanner;
 
-public class Main {
+public class P09_시간여행 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();

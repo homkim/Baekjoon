@@ -1,9 +1,9 @@
 /* 배열에서 x번째 분수 찾기  */
-package c08_기본수학1.p03_분수찾기;
+package c08_기본수학1;
 
 import java.util.Scanner;
 
-public class Main {
+public class P03_분수찾기 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

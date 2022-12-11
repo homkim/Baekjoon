@@ -1,9 +1,9 @@
 /* 달팽이 이동시간 */
-package c08_기본수학1.p04_달팽이;
+package c08_기본수학1;
 
 import java.util.Scanner;
 
-public class Main {
+public class P04_달팽이 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();

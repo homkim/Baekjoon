@@ -1,10 +1,10 @@
 /* 설탕배달  */
 // 5x + 3y  :제일 빠른 거 찾아서 출력
-package c08_기본수학1.p07_설탕배달;
+package c08_기본수학1;
 
 import java.util.Scanner;
 
-public class Main {
+public class P07_설탕배달 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int order = sc.nextInt();

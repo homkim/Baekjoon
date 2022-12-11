@@ -1,9 +1,9 @@
 /* 호텔호실 배정 */
-package c08_기본수학1.p05_ACM호텔;
+package c08_기본수학1;
 
 import java.util.Scanner;
 
-public class Main {
+public class P05_ACM호텔 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();
