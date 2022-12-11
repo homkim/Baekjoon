@@ -1,8 +1,8 @@
-package c02_if문.p03_윤년;
+package c02_if문;
 
 import java.util.Scanner;
 
-public class Main {
+public class P03_윤년 {
 
 	public static void main(String[] args) {
 

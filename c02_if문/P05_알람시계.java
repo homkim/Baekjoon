@@ -1,11 +1,11 @@
-package c02_if문.p05_알람시계;
+package c02_if문;
 
 /**
  * 알람 45분 전으로 맞추기
  */
 import java.util.Scanner;
 
-public class Main {
+public class P05_알람시계 {
 
 	public static void main(String[] args) {
 

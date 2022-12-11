@@ -1,8 +1,8 @@
-package c02_if문.p01_두수비교;
+package c02_if문;
 
 import java.util.Scanner;
 
-public class Main {
+public class P02_두수비교 {
 
 	public static void main(String[] args) {
 

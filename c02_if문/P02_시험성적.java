@@ -1,8 +1,8 @@
-package c02_if문.p02_시험성적;
+package c02_if문;
 
 import java.util.Scanner;
 
-public class Main {
+public class P02_시험성적 {
 
 	public static void main(String[] args) {
 

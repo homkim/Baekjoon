@@ -1,11 +1,11 @@
-package c02_if문.p04_사분면고르기;
+package c02_if문;
 
 /**
  * 4분면 구하기
  */
 import java.util.Scanner;
 
-public class Main {
+public class P04_사분면고르기 {
 
 	public static void main(String[] args) {
 
