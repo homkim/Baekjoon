@@ -2,11 +2,11 @@
  * factorial구하는 재귀함수
  * 정수n 0 ~ 12가 주어짐
  */
-package c10_재귀.p01_팩토리얼;
+package c10_재귀;
 
 import java.util.Scanner;
 
-public class Main {
+public class P01_팩토리얼 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();

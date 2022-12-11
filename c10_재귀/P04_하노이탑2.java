@@ -1,8 +1,8 @@
-package c10_재귀.p04_하노이탑2;
+package c10_재귀;
 
 import java.util.Scanner;
 
-public class Main {
+public class P04_하노이탑2 {
 	
 	static StringBuilder sb = new StringBuilder();
 	static int cnt = 0;

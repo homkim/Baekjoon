@@ -1,14 +1,14 @@
 /**
  * 하노이 #1 
  */
-package c10_재귀.p04_하노이탑;
+package c10_재귀;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.Scanner;
 
-public class Main {
+public class P04_하노이탑 {
 	static BufferedWriter bw;
 	static String arr[];
 

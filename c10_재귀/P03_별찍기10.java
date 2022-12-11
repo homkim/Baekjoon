@@ -1,9 +1,9 @@
-package c10_재귀.p03_별찍기10;
+package c10_재귀;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class P03_별찍기10 {
 	static char arr[][];
 	
 	public static void main(String[] args) {
