@@ -1,10 +1,10 @@
 /* 단어에서 가장 많이 사용된 알파벳 찾기  */
-package c07_문자열.p05_단어공부;
+package c07_문자열;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class P05_단어공부 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

@@ -1,9 +1,9 @@
 /* 상수의 숫자 읽기  */
-package c07_문자열.p07_상수;
+package c07_문자열;
 
 import java.util.Scanner;
 
-public class Main {
+public class P07_상수 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		StringBuffer bf = new StringBuffer();

@@ -2,11 +2,11 @@
 // ABC 3초, DEF 4초, GHI 5초 ,,,
 // 64,65,66: 3, 67,68,69: 4
 // ASCII 값 64를 빼고 3으로 나눈 몫 + 3 sec
-package c07_문자열.p08_다이얼;
+package c07_문자열;
 
 import java.util.Scanner;
 
-public class Main {
+public class P08_다이얼 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

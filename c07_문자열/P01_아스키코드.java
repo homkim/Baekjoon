@@ -1,9 +1,9 @@
 /* 아스키값 출력  */
-package c07_문자열.p01_아스키코드;
+package c07_문자열;
 
 import java.util.Scanner;
 
-public class Main {
+public class P01_아스키코드 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

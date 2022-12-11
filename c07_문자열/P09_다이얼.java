@@ -1,10 +1,10 @@
 /* 크로아티아 알파벳  */
-package c07_문자열.p09_크로아티아;
+package c07_문자열;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main {
+public class P09_다이얼 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String str = sc.next();

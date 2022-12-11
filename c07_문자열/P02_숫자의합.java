@@ -1,9 +1,9 @@
 /* 각 자릿수 합계  */
-package c07_문자열.p02_숫자의합;
+package c07_문자열;
 
 import java.util.Scanner;
 
-public class Main {
+public class P02_숫자의합 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

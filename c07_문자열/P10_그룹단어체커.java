@@ -1,9 +1,9 @@
 /* 그룹단어 판별  */
-package c07_문자열.p10_그룹단어체커;
+package c07_문자열;
 
 import java.util.Scanner;
 
-public class Main {
+public class P10_그룹단어체커 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();

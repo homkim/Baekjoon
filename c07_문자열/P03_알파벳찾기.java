@@ -1,11 +1,11 @@
 /* 주어진 문자열에서 각 알파벳 최초 인덱스 값  */
 // a:97, z:122
 // 문자열 값은 모두 소문자로 주어짐
-package c07_문자열.p03_알파벳찾기;
+package c07_문자열;
 
 import java.util.Scanner;
 
-public class Main {
+public class P03_알파벳찾기 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
