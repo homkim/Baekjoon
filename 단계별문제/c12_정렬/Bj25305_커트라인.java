@@ -1,10 +1,11 @@
+package 단계별문제.c12_정렬;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
 //25305 커트라인
-class Main {
+class Bj25305_커트라인 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
